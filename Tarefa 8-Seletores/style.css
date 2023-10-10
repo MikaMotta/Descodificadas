@@ -1,0 +1,65 @@
+h1{
+    text-align:center;
+    font-family:verdana;
+    font-size:normal;
+  }
+  
+  h2{
+    text-align:center;
+   font-family:verdana;
+   font-weight: normal;
+   font-size: small;
+  }
+   
+  section{
+       display: flex;
+   justify-content: center;
+  }
+  
+  
+  .vermelhocantos {
+    background-color:red;
+    display: inline-block;
+    margin:-2px;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+  }
+  
+  .vermelho {
+    background-color:red;
+    margin:-2px;  
+    display: inline-block;
+    border: white solid 0.5px;
+    width: 200px;
+    height: 200px;
+    }
+  
+  .verde{
+    background-color:green;
+    margin:-2px;  
+       display: inline-block;
+    border: white solid 0.5px;
+    width: 200px;
+    height: 200px;
+  
+    }
+  
+  .azul{
+    background-color:blue;
+    margin:-2px;  
+    display: inline-block;
+    border: white solid 0.5px;
+    width: 200px;
+    height: 200px;
+  }
+  
+  .amarelo{
+    background-color:yellow;
+    margin:-2px;  
+    display: inline-block;
+    border: white solid 0.5px;
+    width: 200px;
+    height: 200px;
+  }
+  
